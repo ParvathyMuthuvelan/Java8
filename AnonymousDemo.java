@@ -20,7 +20,7 @@ public class AnonymousDemo {
 //		t.start();
 		// Anonymous class
 		// List list=new ArrayList();
-		// Runnable ref=new CThread();
+//	Runnable ref=new CThread();
 		Runnable r = new Runnable() {
 			@Override
 			public void run() {
